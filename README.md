@@ -5,8 +5,7 @@
 ---
 
 ## 🌟 Preview
-
-![Preview](https://via.placeholder.com/800x400?text=Scrcpy+Custom+UI)
+<img width="972" height="518" alt="preview" src="https://github.com/user-attachments/assets/207eddcd-0381-49de-9ec8-2ab31d5c5c34" />
 
 ---
 
