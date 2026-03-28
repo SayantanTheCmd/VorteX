@@ -4,6 +4,20 @@
 
 ---
 
+# 🛑 VorteX v3.1 – Strict Proprietary Software 🛑
+
+**© 2026 Sayantan J. All Rights Reserved.**
+
+⚡ **WARNING:** VorteX is strictly personal-use software.  
+- **Do NOT copy, redistribute, reverse-engineer, or include in other apps.**  
+- **Commercial use or modification is forbidden.**  
+- Screenshots or videos for promotion/education are allowed, **but the software itself may not be shared**.  
+- Violators may face legal action.
+
+By using VorteX, you **agree to these terms**.
+
+---
+
 ## 🚀 Features
 
 - **Dual Mode:** Headless & GUI mode for flexible Android device control  
