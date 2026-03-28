@@ -35,13 +35,11 @@
 
 ## 📸 Screenshots & GIFs
 
-
-
 ---
 
 ## 👤 Creator
 
-Sayantan J  
+❤️Developed & modded by Sayantan J – bringing gaming-inspired Android control to your PC. 
 
 - YouTube: [TheValBoi](https://www.youtube.com/@TheValBoi)  
 - Discord: [VorteX Community](https://discord.gg/wUMADPBuF4)  
@@ -51,6 +49,3 @@ Sayantan J
 ## 💡 Notes
 VorteX is the new name of the application it was formerly Scrcpy_Custom . 
 So it is advised to ignore downloading v1.0 because it is my old first unstable version of VorteX formerly Scrcpy_Custom
-
-- Keep `Assets` folder and other files together with the executable for proper functionality  
--
