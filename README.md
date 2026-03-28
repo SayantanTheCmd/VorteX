@@ -35,7 +35,6 @@
 
 ## 📸 Screenshots & GIFs
 <img width="972" height="530" alt="img1" src="https://github.com/user-attachments/assets/74e872db-0463-4fd1-a0e4-b300b2307cd5" />
-<img width="522" height="672" alt="img2" src="https://github.com/user-attachments/assets/3821c862-0bbc-417f-bd50-2d5c897bda91" />
 
 ---
 
